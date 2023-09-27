@@ -1,4 +1,4 @@
-package com.example.demo;
+package ejemplo.ucaldas.demo;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
